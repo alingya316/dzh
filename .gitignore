@@ -1,0 +1,11 @@
+.vs
+.vscode
+*.exe
+*.obj
+Debug/
+x64/
+*.user
+build/
+
+# 大模型 API 密钥（勿提交；参考各工程目录下 llm_config.example.json）
+llm_config.json
