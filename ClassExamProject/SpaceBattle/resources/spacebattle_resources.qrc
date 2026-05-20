@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="/space/images">
+    <file>images/APPLE_SETUP.png</file>
+    <file>images/CANCEL.png</file>
+    <file>images/CHECKBOX_BUTTON.png</file>
+    <file>images/DEFAULT.png</file>
+    <file>images/SPACE_BACKGROUND.png</file>
+    <file>images/SPACE_BOMB.png</file>
+    <file>images/SPACE_CAPTION_BACK.png</file>
+    <file>images/SPACE_ENEMY_0.png</file>
+    <file>images/SPACE_ENEMY_4.png</file>
+    <file>images/SPACE_EXIT.png</file>
+    <file>images/SPACE_EXPLOSION_0.png</file>
+    <file>images/SPACE_HISCORE.png</file>
+    <file>images/SPACE_HISCORE_BG.png</file>
+    <file>images/OK.png</file>
+    <file>images/SPACE_LABEL_LIFE.png</file>
+    <file>images/SPACE_LABEL_SCORE.png</file>
+    <file>images/SPACE_LABEL_TIME.png</file>
+    <file>images/SPACE_LIFE.png</file>
+    <file>images/SPACE_LIFE_OVER.png</file>
+    <file>images/SPACE_MAINMENU_BG.png</file>
+    <file>images/SPACE_OPTION.png</file>
+    <file>images/SPACE_RETURN.png</file>
+    <file>images/SPACE_SHIP.png</file>
+    <file>images/SPACE_STARS.png</file>
+    <file>images/SPACE_START.png</file>
+  </qresource>
+
+  <qresource prefix="/space/sounds">
+    <file>sounds/SPACE_BG.wav</file>
+    <file>sounds/SPACE_BLAST.wav</file>
+    <file>sounds/SPACE_PLANEOUT.wav</file>
+    <file>sounds/SPACE_SHOOT.wav</file>
+    <file>sounds/SPACE_WORDOUT.wav</file>
+    <file>sounds/UPGRADE.wav</file>
+  </qresource>
+</RCC>
+

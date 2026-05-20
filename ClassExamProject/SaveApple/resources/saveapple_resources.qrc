@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sounds/ANIBTN_ENTER.wav</file>
+        <file>sounds/BTN_CLICK.wav</file>
+        <file>sounds/APPLE_BG.wav</file>
+        <file>sounds/APPLE_IN.wav</file>
+    </qresource>
+</RCC>

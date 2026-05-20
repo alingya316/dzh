@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/launcher">
+        <file>APPLE.PNG</file>
+        <file>SPACE.png</file>
+    </qresource>
+</RCC>
